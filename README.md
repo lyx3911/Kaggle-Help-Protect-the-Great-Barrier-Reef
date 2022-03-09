@@ -189,5 +189,3 @@ yolov5l image size=3000，模型集成，tracking
 - [obss/sahi: A lightweight vision library for performing large scale object detection/ instance segmentation. (github.com)](https://github.com/obss/sahi)
 - [lrghust/Seq-NMS: An implementation of Seq-NMS (github.com)](https://github.com/lrghust/Seq-NMS)
 - [Scalsol/mega.pytorch: Memory Enhanced Global-Local Aggregation for Video Object Detection, CVPR2020 (github.com)](https://github.com/Scalsol/mega.pytorch)
-- [Scalsol/mega.pytorch: Memory Enhanced Global-Local Aggregation for Video Object Detection, CVPR2020 (github.com)](https://github.com/Scalsol/mega.pytorch)
-
