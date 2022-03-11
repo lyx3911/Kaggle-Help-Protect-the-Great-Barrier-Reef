@@ -82,7 +82,7 @@ kaggle上的一个奖金赛：tensorFlow - Help Protect the Great Barrier Reef (
 
 - Image blending数据增强：不如直接cut-paste简单好用
 
-- **Video Anomaly Detection**领域用到的方法
+- **Video Object Detection**领域用到的方法
 
   由于这是视频目标检测，所以想尝试一些论文中看起来非常noval的方法，但是真的去做的时候发现很多方法都不能实现实时检测，有些方法由于开源代码不完整等原因，导致复现的过程遇到很多困难，最后真的试过的就下面这两种：
 
